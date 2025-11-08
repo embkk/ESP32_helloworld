@@ -1,0 +1,2 @@
+source /home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader/gdbinit/symbols
+source /home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader/gdbinit/connect
