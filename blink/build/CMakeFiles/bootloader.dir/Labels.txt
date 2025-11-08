@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/CMakeFiles/bootloader
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/CMakeFiles/bootloader.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/CMakeFiles/bootloader-complete.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/unmanned-john-doe/git/embedded/ESP32_helloworld/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
